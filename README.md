@@ -32,12 +32,6 @@ a one-hop flight (consisting of two flights: origin --> stopover city, stopover 
 <br>
 <img src="image/UML.png">
 
-## Transaction Management
-Used SQL Transaction to gurentee ACID properties:
-* 1
-* 2
-* 3
-
 
 
 
